@@ -4,21 +4,17 @@ A project for CSC-207.
 
 Authors:
 
-* Grant
+* Grant Sackmann
 * Samuel A. Rebelsky (starter code)
 
 ---
 
 Overview:
 
-PLEASE PROVIDE AN OVERVIEW OF THE PROJECT FOR THOSE WHO MIGHT NOT
-OTHERWISE UNDERSTAND IT.
+This project is 2D array implementation of a matrix in Java for my CSC-207 class.
 
 ---
 
-Citations:
-
----
 
 This code may be found at <https://github.com/5341kmann/mp-matrices-maven>. 
 
