@@ -11,7 +11,7 @@ Authors:
 
 Overview:
 
-This project is 2D array implementation of a matrix in Java for my CSC-207 class.
+This project is a 2D array implementation of a matrix in Java for my CSC-207 class.
 
 ---
 
